@@ -1,0 +1,4 @@
+[submodule "i-mr"]
+	path = i-mr
+	url = git@git.vauxoo.com:vauxoo/i-mr.git
+	branch = 15.0
